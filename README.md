@@ -2,26 +2,26 @@
 
 
 
-# [Project Name] 🎯
+ DoomsKart🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Doom Squad
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Elbin Sam - College Of Engineering Kallooppara
+- Member 2: Mithunraj S - College Of Engineering Kallooppara
 
 ### Project Description
-[2-3 lines about what your project does]
+Forget Amazon. Forget Flipkart.
+We deliver planets straight to your doorstep. (Doorstep not included.) 🚀
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Finding a suitable planet for your personal space empire is extremely difficult. 👽
 
-### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+### The Solution 
+Our platform makes interplanetary shopping simple, convenient
 
 ## Technical Details
 ### Technologies/Components Used
