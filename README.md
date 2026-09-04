@@ -26,15 +26,10 @@ Our platform makes interplanetary shopping simple, convenient
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- C program , Java , Html , Python3
 - [Frameworks used]
 - [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- 
 
 ### Implementation
 For Software:
