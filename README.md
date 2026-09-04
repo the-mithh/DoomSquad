@@ -18,8 +18,8 @@ We deliver planets straight to your doorstep. (Doorstep not included.) 🚀
 Online shopping platform created by Doctor Doom.
 
 ### The Problem (that doesn't exist)
-Finding a suitable planet for your personal space empire is extremely difficult. 👽
-High population , Busy Doctor Doom can't Manage it.
+Finding a suitable planet for your personal space empire is extremely difficult. 
+👽High population But Busy Doctor Doom can't Manage it...!!
 
 ### The Solution 
 Our platform makes interplanetary shopping simple, convenient.
